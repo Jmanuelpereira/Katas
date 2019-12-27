@@ -1,3 +1,5 @@
+//KATAS
+
 function disemvowel(str) {
 
     const arrLetters = str
